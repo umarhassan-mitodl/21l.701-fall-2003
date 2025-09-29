@@ -33,6 +33,7 @@
     "website": "21l-701-literary-interpretation-interpreting-poetry-fall-2003"
   },
   "course_title": "Literary Interpretation: Interpreting Poetry",
+  "hide_download": true,
   "course_description": "This seminar offers a course of readings in lyric poetry.\u00a0It aims to enhance the student's capacity to understand the nature of poetic language and the enjoyment of poetic texts by treating poems as messages to be deciphered.\n\nThe seminar will briefly touch upon the history of theories of figurative language since Aristotle and it will attend to the development of those theories during the last thirty years, noting the manner in which they tended to consider figures of speech distinct from normative or literal expression, and it will devote particular attention to the rise of theories that quarrel with this distinction.\n\nThe seminar also aims to communicate a rough sense of the history of English-speaking poetry since the early modern period. Some attention will be paid as well to the use of metaphor in science.\n",
   "department_numbers": [
     "21L"
@@ -43,6 +44,7 @@
     "content": "66b78c7f-b7db-a386-72c4-ef6bea8656d5",
     "website": "21l-701-literary-interpretation-interpreting-poetry-fall-2003"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments"
   ],
