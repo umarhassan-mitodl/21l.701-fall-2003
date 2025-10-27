@@ -4,8 +4,6 @@ description: ''
 file: /courses/21l-701-literary-interpretation-interpreting-poetry-fall-2003/cd59256dbc8fc4e527f5337017cd0e38_lecture16f.pdf
 file_size: 11384
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
